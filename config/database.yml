@@ -82,4 +82,4 @@ production:
   <<: *default
   database: rails_docker_test_production
   username: rails_docker_test
-  password: <%= ENV["RAILS_DOCKER_TEST_DATABASE_PASSWORD"] %>
+  password: password

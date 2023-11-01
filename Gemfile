@@ -66,3 +66,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'rake', '13.0.6'
